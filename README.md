@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧬 About Me
-I am a bilingual (English & Spanish) aspiring bioengineer and computational researcher passionate about bridging the gap between wet lab biotechnology and artificial intelligence. I focus on combining hands-on laboratory techniques with data-driven approaches, using Python and machine learning to analyze biological data and accelerate research insights. As an entry-level professional, I am eager to apply my analytical, coding, and laboratory skills to innovative projects in biotechnology and AI-driven healthcare.
+I am a bilingual (English & Spanish) bioengineer and computational researcher passionate about bridging the gap between wet lab biotechnology and artificial intelligence. I focus on combining hands-on laboratory techniques with data-driven approaches, using Python and machine learning to analyze biological data and accelerate research insights. As an entry-level professional, I am eager to apply my analytical, coding, and laboratory skills to innovative projects in biotechnology and AI-driven healthcare.
 
 ---
 
