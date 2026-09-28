@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Target Role
-**Aspiring Bioinformatics Analyst | Entry-Level AI & Biotechnology Researcher**
+**AI Business Solutions | Life Sciences | Enterprise Technology**
 
 ---
 
